@@ -10,14 +10,14 @@ If no argument is given, defaults to 1.
 
 ## Example
 
-  $> loadme.sh 4
-  Loading CPU 4 time(s)...
-  Press any key to stop... 
-  bash: line 1: 21284 Terminated: 15          yes > /dev/null
-  bash: line 1: 21285 Terminated: 15          yes > /dev/null
-  bash: line 1: 21283 Terminated: 15          yes > /dev/null
-  bash: line 1: 21282 Terminated: 15          yes > /dev/null
-  Stopped
+    $> loadme.sh 4
+    Loading CPU 4 time(s)...
+    Press any key to stop... 
+    bash: line 1: 21284 Terminated: 15          yes > /dev/null
+    bash: line 1: 21285 Terminated: 15          yes > /dev/null
+    bash: line 1: 21283 Terminated: 15          yes > /dev/null
+    bash: line 1: 21282 Terminated: 15          yes > /dev/null
+    Stopped
 
 ## Requirements
 
